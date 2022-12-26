@@ -1,3 +1,3 @@
 # Heyawake Solver Using ASP
 
-### Made By Arturo Pérez Sánchez
+Generator, Solver and visualizer of the heyawake puzzle using ASP and python
